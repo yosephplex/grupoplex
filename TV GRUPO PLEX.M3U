@@ -1,5 +1,12 @@
 #EXTM3U DIG IF YOU WILL THE PICTURE
 
+
+
+#EXTINF:-1,INFANTIL ROLAND
+#EXTSIZE: big
+#EXTBG: https://www.chiquipedia.com/imagenes/gifs-animados-cumpleanos-2-1.gif
+https://raw.githubusercontent.com/yosephplex/anime/master/infantilroland.m3u
+
 #EXTINF:-1,DEPORTES ROLAND
 #EXTSIZE: big
 #EXTBG: https://thumbs.gfycat.com/FrankHugeGosling-max-1mb.gif
