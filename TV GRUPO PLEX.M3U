@@ -23,10 +23,7 @@ https://raw.githubusercontent.com/yosephplex/grupoplex/master/PABLOLARA.M3U
 https://raw.githubusercontent.com/yosephplex/grupoplex/master/movistarplusroland.m3u
 
 
-#EXTINF:-1,CANALES LATINOS
-#EXTSIZE: big
-#EXTBG: https://4.bp.blogspot.com/_mImU7UbATEg/TJuietNEuGI/AAAAAAAAAAM/voSP2z3_raY/s320/banderas.gif
-https://dl.dropboxusercontent.com/s/xtim41jwpn80hzd/1.m3u?dl=0
+
 
 #EXTINF:-1,DEPORTES MARIN
 #EXTSIZE: big
@@ -38,7 +35,10 @@ https://raw.githubusercontent.com/yosephplex/grupoplex/master/deportesmarin.m3u
 #EXTBG: https://media.giphy.com/media/y9ShKWP7bgkj6/giphy.gif
 https://raw.githubusercontent.com/yosephplex/grupoplex/master/IPTVSANDY.M3U
 
-
+#EXTINF:-1 tvg-logo="https://www.ofertasyoigo.net/uploads/img/5709/canales-sky.jpg",JOSE
+#EXTSIZE: BIG
+#EXTBG: https://i.gifer.com/KWQo.gif
+https://pastebin.com/raw/dAMFn1k7
 
 #EXTINF:-1,PLAYBOY TV
 #EXTSIZE: big
@@ -47,12 +47,12 @@ https://dl.dropboxusercontent.com/s/244mkm5efdlvbll/CANALES%20PORNO.M3U?dl=0
 
 
 #EXTINF:-1,PREMIUM EMA 
-#EXTSIZE: big
+#EXTSIZE: MEDIUM
 #EXTBG: https://media0.giphy.com/media/12BoBIvIMhokN2/200w.gif
 https://raw.githubusercontent.com/saturno43/gratis/master/usopersonal.m3u
 
 #EXTINF:-1 tvg-logo="https://i.blogs.es/6449f7/espinof-peliculas-mas-esperadas-estrenos-cine-2018/450_1000.jpg",ClubTVOnline
-#EXTSIZE: BIG
+#EXTSIZE: MEDIUM
 #EXTBG: https://media.tenor.com/images/3e3136c1bef9bc57e23c12f0c2b6b50c/tenor.gif
 https://bit.ly/ClubTVOnline
 
@@ -79,6 +79,11 @@ https://www.achoapps.com/listas/lista22.m3u
 #EXTSIZE: MEDIUM
 #EXTBG: http://humorfutbolclub.com/wp-content/uploads/2012/11/gif-animado-patada-kung-fu-ibrahimovic-psg-saint-etienne.gif
 https://dl.dropboxusercontent.com/s/v04vhmo9ag8h4gi/DEPORTES.m3u?dl=0
+
+#EXTINF:-1,CANALES LATINOS
+#EXTSIZE: big
+#EXTBG: https://4.bp.blogspot.com/_mImU7UbATEg/TJuietNEuGI/AAAAAAAAAAM/voSP2z3_raY/s320/banderas.gif
+https://dl.dropboxusercontent.com/s/xtim41jwpn80hzd/1.m3u?dl=0
 
 
 #EXTINF:-1,FLUXUS LATINO
