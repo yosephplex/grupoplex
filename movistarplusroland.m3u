@@ -1,137 +1,93 @@
-#EXTINF:-1,ES:LA1 HD
-http://iptv.azteam.pro:8000/swissw/PKWLlgneFS/181
-#EXTINF:-1,ES:LA2 HD
-http://iptv.azteam.pro:8000/swissw/PKWLlgneFS/182
-#EXTINF:-1,ES:ANTENA 3 HD
-http://iptv.azteam.pro:8000/swissw/PKWLlgneFS/183
-#EXTINF:-1,ES:CUATRO HD
-http://iptv.azteam.pro:8000/swissw/PKWLlgneFS/184
-#EXTINF:-1,ES:TELECINCO HD
-http://iptv.azteam.pro:8000/swissw/PKWLlgneFS/185
-#EXTINF:-1,ES:LA SEXTA HD
-http://iptv.azteam.pro:8000/swissw/PKWLlgneFS/186
-#EXTINF:-1,ES:MEGA
-http://iptv.azteam.pro:8000/swissw/PKWLlgneFS/187
-#EXTINF:-1,ES:NOVA
-http://iptv.azteam.pro:8000/swissw/PKWLlgneFS/188
-#EXTINF:-1,ES:ENERGY
-http://iptv.azteam.pro:8000/swissw/PKWLlgneFS/189
-#EXTINF:-1,ES:COSMO HD
-http://iptv.azteam.pro:8000/swissw/PKWLlgneFS/190
-#EXTINF:-1,ES:NEOX
-http://iptv.azteam.pro:8000/swissw/PKWLlgneFS/191
-#EXTINF:-1,ES:DIVINITY
-http://iptv.azteam.pro:8000/swissw/PKWLlgneFS/192
-#EXTINF:-1,ES:FDF
-http://iptv.azteam.pro:8000/swissw/PKWLlgneFS/193
-#EXTINF:-1,ES:24h
-http://iptv.azteam.pro:8000/swissw/PKWLlgneFS/194
-#EXTINF:-1,ES:CLANTVE
-http://iptv.azteam.pro:8000/swissw/PKWLlgneFS/195
-#EXTINF:-1,ES:BOING
-http://iptv.azteam.pro:8000/swissw/PKWLlgneFS/196
-#EXTINF:-1,ES:BABY
-http://iptv.azteam.pro:8000/swissw/PKWLlgneFS/197
-#EXTINF:-1,ES:CANAL PANDA
-http://iptv.azteam.pro:8000/swissw/PKWLlgneFS/198
-#EXTINF:-1,ES:Nickelodeon HD
-http://iptv.azteam.pro:8000/swissw/PKWLlgneFS/199
-#EXTINF:-1,ES:Disney Channel
-http://iptv.azteam.pro:8000/swissw/PKWLlgneFS/200
-#EXTINF:-1,ES:#0 HD
-http://iptv.azteam.pro:8000/swissw/PKWLlgneFS/201
-#EXTINF:-1,ES:AXN HD
-http://iptv.azteam.pro:8000/swissw/PKWLlgneFS/202
-#EXTINF:-1,ES:AXN WHITE HD
-http://iptv.azteam.pro:8000/swissw/PKWLlgneFS/203
-#EXTINF:-1,ES:FOX HD
-http://iptv.azteam.pro:8000/swissw/PKWLlgneFS/204
-#EXTINF:-1,ES:FOX LIFE HD
-http://iptv.azteam.pro:8000/swissw/PKWLlgneFS/205
+#EXTINF:-1 tvg-id="" tvg-name="ES: #0" tvg-logo="" group-title="Spanish",ES: #0
+http://youra.damnsexybit.net:8080/Ben/kb6Yn2Z9zv/133931
+#EXTINF:-1 tvg-id="" tvg-name="ES: #V" tvg-logo="" group-title="Spanish",ES: #V
+http://youra.damnsexybit.net:8080/Ben/kb6Yn2Z9zv/133930
+#EXTINF:-1 tvg-id="" tvg-name="ES: AMC" tvg-logo="" group-title="Spanish",ES: AMC
+http://youra.damnsexybit.net:8080/Ben/kb6Yn2Z9zv/133901
+#EXTINF:-1 tvg-id="" tvg-name="ES: ANTENA 3" tvg-logo="" group-title="Spanish",ES: ANTENA 3
+http://youra.damnsexybit.net:8080/Ben/kb6Yn2Z9zv/133889
+#EXTINF:-1 tvg-id="" tvg-name="ES: AXN" tvg-logo="" group-title="Spanish",ES: AXN
+http://youra.damnsexybit.net:8080/Ben/kb6Yn2Z9zv/133905
+#EXTINF:-1 tvg-id="" tvg-name="ES: AXN WHITE" tvg-logo="" group-title="Spanish",ES: AXN WHITE
+http://youra.damnsexybit.net:8080/Ben/kb6Yn2Z9zv/133906
+#EXTINF:-1 tvg-id="" tvg-name="ES: BARCA TV" tvg-logo="" group-title="Spanish",ES: BARCA TV
+http://youra.damnsexybit.net:8080/Ben/kb6Yn2Z9zv/133918
+#EXTINF:-1 tvg-id="" tvg-name="ES: CALLE13" tvg-logo="" group-title="Spanish",ES: CALLE13
+http://youra.damnsexybit.net:8080/Ben/kb6Yn2Z9zv/133904
+#EXTINF:-1 tvg-id="" tvg-name="ES: CANAL COCINA" tvg-logo="" group-title="Spanish",ES: CANAL COCINA
+http://youra.damnsexybit.net:8080/Ben/kb6Yn2Z9zv/133921
+#EXTINF:-1 tvg-id="" tvg-name="ES: CANAL DECASA" tvg-logo="" group-title="Spanish",ES: CANAL DECASA
+http://youra.damnsexybit.net:8080/Ben/kb6Yn2Z9zv/133911
+#EXTINF:-1 tvg-id="" tvg-name="ES: COMEDY CENTRAL" tvg-logo="" group-title="Spanish",ES: COMEDY CENTRAL
+http://youra.damnsexybit.net:8080/Ben/kb6Yn2Z9zv/133907
 
-#EXTINF:-1,ES:MTV ESPANA
-http://iptv.azteam.pro:8000/swissw/PKWLlgneFS/248
-#EXTINF:-1,ES:CAZAYPESCA
-http://iptv.azteam.pro:8000/swissw/PKWLlgneFS/247
-#EXTINF:-1,ES:CANALODISEA
-http://iptv.azteam.pro:8000/swissw/PKWLlgneFS/246
-#EXTINF:-1,ES:CANAL DECASA
-http://iptv.azteam.pro:8000/swissw/PKWLlgneFS/245
-#EXTINF:-1,ES:CRIMEN INVES
-http://iptv.azteam.pro:8000/swissw/PKWLlgneFS/244
-#EXTINF:-1,ES:NAT GEO
-http://iptv.azteam.pro:8000/swissw/PKWLlgneFS/241
-#EXTINF:-1,ES:DISCOVERY
-http://iptv.azteam.pro:8000/swissw/PKWLlgneFS/240
-#EXTINF:-1,ES:HISTORIA
-http://iptv.azteam.pro:8000/swissw/PKWLlgneFS/239
-#EXTINF:-1,ES:BLAZE
-http://iptv.azteam.pro:8000/swissw/PKWLlgneFS/238
-#EXTINF:-1,ES:NAT GEO WILD HD
-http://iptv.azteam.pro:8000/swissw/PKWLlgneFS/242
-#EXTINF:-1,ES:NATGEOGRAPH
-http://iptv.azteam.pro:8000/swissw/PKWLlgneFS/243
-#EXTINF:-1,ES:CANAL COCINA
-http://iptv.azteam.pro:8000/swissw/PKWLlgneFS/237
-#EXTINF:-1,ES:VIAJAR HD
-http://iptv.azteam.pro:8000/swissw/PKWLlgneFS/236
-#EXTINF:-1,ES:CANAL  TOROS
-http://iptv.azteam.pro:8000/swissw/PKWLlgneFS/235
-#EXTINF:-1,ES:BARCA TV
-http://iptv.azteam.pro:8000/swissw/PKWLlgneFS/234
-#EXTINF:-1,ES: REAL MADRID
-http://iptv.azteam.pro:8000/swissw/PKWLlgneFS/233
-#EXTINF:-1,ES:EUROSPORT1 HD
-http://iptv.azteam.pro:8000/swissw/PKWLlgneFS/232
-#EXTINF:-1,ES:beIN Sport 
-http://iptv.azteam.pro:8000/swissw/PKWLlgneFS/231
-#EXTINF:-1,ES:MOVISTAR MOTOGP HD
-http://iptv.azteam.pro:8000/swissw/PKWLlgneFS/230
-#EXTINF:-1,ES:MOVISTAR F1 HD
-http://iptv.azteam.pro:8000/swissw/PKWLlgneFS/229
-#EXTINF:-1,ES:Movistar Golf
-http://iptv.azteam.pro:8000/swissw/PKWLlgneFS/228
-#EXTINF:-1,ES: #Vamos HD
-http://iptv.azteam.pro:8000/swissw/PKWLlgneFS/227
-#EXTINF:-1,ES:#Vamos
-http://iptv.azteam.pro:8000/swissw/PKWLlgneFS/226
-#EXTINF:-1,ES:Movistar Deportes HD
-http://iptv.azteam.pro:8000/swissw/PKWLlgneFS/225
-#EXTINF:-1,ES:Movistar Futbol
-http://iptv.azteam.pro:8000/swissw/PKWLlgneFS/224
-#EXTINF:-1,ES:LaLiga TV BAR HD
-http://iptv.azteam.pro:8000/swissw/PKWLlgneFS/223
-#EXTINF:-1,ES:Movistar LaLigatv
-http://iptv.azteam.pro:8000/swissw/PKWLlgneFS/222
-#EXTINF:-1,ES:TELEDEPORTE
-http://iptv.azteam.pro:8000/swissw/PKWLlgneFS/221
-#EXTINF:-1,ES:GOL
-http://iptv.azteam.pro:8000/swissw/PKWLlgneFS/220
-#EXTINF:-1,ES:DCINE ESPANOL
-http://iptv.azteam.pro:8000/swissw/PKWLlgneFS/219
-#EXTINF:-1,ES:Movistar Comedia HD
-http://iptv.azteam.pro:8000/swissw/PKWLlgneFS/218
-#EXTINF:-1,ES:Movistar Drama HD
-http://iptv.azteam.pro:8000/swissw/PKWLlgneFS/217
-#EXTINF:-1,ES:Movistar Estrenos HD
-http://iptv.azteam.pro:8000/swissw/PKWLlgneFS/216
-#EXTINF:-1,ES:Movistar Series HD
-http://iptv.azteam.pro:8000/swissw/PKWLlgneFS/215
-#EXTINF:-1,ES:Movistar Accion HD
-http://iptv.azteam.pro:8000/swissw/PKWLlgneFS/214
-#EXTINF:-1,ES:HOLLYWOOD HD
-http://iptv.azteam.pro:8000/swissw/PKWLlgneFS/213
-#EXTINF:-1,ES:PARAMOUNT CHANNEL
-http://iptv.azteam.pro:8000/swissw/PKWLlgneFS/212
-#EXTINF:-1,ES:COMEDY CENTRAL HD
-http://iptv.azteam.pro:8000/swissw/PKWLlgneFS/211
-#EXTINF:-1,ES:CALLE13 HD
-http://iptv.azteam.pro:8000/swissw/PKWLlgneFS/210
-#EXTINF:-1,ES:TNT HD
-http://iptv.azteam.pro:8000/swissw/PKWLlgneFS/209
-#EXTINF:-1,ES:AMC HD
-http://iptv.azteam.pro:8000/swissw/PKWLlgneFS/208
-#EXTINF:-1,ES:SYFY HD
-http://iptv.azteam.pro:8000/swissw/PKWLlgneFS/207
-#EXTINF:-1,ES:TCM HD
-http://iptv.azteam.pro:8000/swissw/PKWLlgneFS/206
+#EXTINF:-1 tvg-id="" tvg-name="ES: COSMO" tvg-logo="" group-title="Spanish",ES: COSMO
+http://youra.damnsexybit.net:8080/Ben/kb6Yn2Z9zv/133923
+#EXTINF:-1 tvg-id="" tvg-name="ES: CRIMEN INVES" tvg-logo="" group-title="Spanish",ES: CRIMEN INVES
+http://youra.damnsexybit.net:8080/Ben/kb6Yn2Z9zv/133926
+#EXTINF:-1 tvg-id="" tvg-name="ES: CUATRO" tvg-logo="" group-title="Spanish",ES: CUATRO
+http://youra.damnsexybit.net:8080/Ben/kb6Yn2Z9zv/133890
+#EXTINF:-1 tvg-id="" tvg-name="ES: DISCOVERY CHANNEL" tvg-logo="" group-title="Spanish",ES: DISCOVERY CHANNEL
+http://youra.damnsexybit.net:8080/Ben/kb6Yn2Z9zv/133924
+#EXTINF:-1 tvg-id="" tvg-name="ES: DISNEY" tvg-logo="" group-title="Spanish",ES: DISNEY
+http://youra.damnsexybit.net:8080/Ben/kb6Yn2Z9zv/133917
+#EXTINF:-1 tvg-id="" tvg-name="ES: DISNEY JR" tvg-logo="" group-title="Spanish",ES: DISNEY JR
+http://youra.damnsexybit.net:8080/Ben/kb6Yn2Z9zv/133914
+#EXTINF:-1 tvg-id="" tvg-name="ES: DISNEY XD" tvg-logo="" group-title="Spanish",ES: DISNEY XD
+http://youra.damnsexybit.net:8080/Ben/kb6Yn2Z9zv/133927
+#EXTINF:-1 tvg-id="" tvg-name="ES: FOX" tvg-logo="" group-title="Spanish",ES: FOX
+http://youra.damnsexybit.net:8080/Ben/kb6Yn2Z9zv/133899
+#EXTINF:-1 tvg-id="" tvg-name="ES: FOX LIFE" tvg-logo="" group-title="Spanish",ES: FOX LIFE
+http://youra.damnsexybit.net:8080/Ben/kb6Yn2Z9zv/133900
+#EXTINF:-1 tvg-id="" tvg-name="ES: HOLLYWOOD" tvg-logo="" group-title="Spanish",ES: HOLLYWOOD
+http://youra.damnsexybit.net:8080/Ben/kb6Yn2Z9zv/133909
+#EXTINF:-1 tvg-id="" tvg-name="ES: LA SEXTA" tvg-logo="" group-title="Spanish",ES: LA SEXTA
+http://youra.damnsexybit.net:8080/Ben/kb6Yn2Z9zv/133892
+#EXTINF:-1 tvg-id="" tvg-name="ES: LALIGA TV Bar" tvg-logo="" group-title="Spanish",ES: LALIGA TV Bar
+http://youra.damnsexybit.net:8080/Ben/kb6Yn2Z9zv/133893
+#EXTINF:-1 tvg-id="" tvg-name="ES: M.ACCION" tvg-logo="" group-title="Spanish",ES: M.ACCION
+http://youra.damnsexybit.net:8080/Ben/kb6Yn2Z9zv/133897
+#EXTINF:-1 tvg-id="" tvg-name="ES: M.COMEDIA" tvg-logo="" group-title="Spanish",ES: M.COMEDIA
+http://youra.damnsexybit.net:8080/Ben/kb6Yn2Z9zv/133898
+#EXTINF:-1 tvg-id="" tvg-name="ES: M.DESPORTES" tvg-logo="" group-title="Spanish",ES: M.DESPORTES
+http://youra.damnsexybit.net:8080/Ben/kb6Yn2Z9zv/133895
+#EXTINF:-1 tvg-id="" tvg-name="ES: M.DRAMA" tvg-logo="" group-title="Spanish",ES: M.DRAMA
+http://youra.damnsexybit.net:8080/Ben/kb6Yn2Z9zv/133896
+#EXTINF:-1 tvg-id="" tvg-name="ES: M.ESTRENOS" tvg-logo="" group-title="Spanish",ES: M.ESTRENOS
+http://youra.damnsexybit.net:8080/Ben/kb6Yn2Z9zv/133894
+#EXTINF:-1 tvg-id="" tvg-name="ES: M.GOLF" tvg-logo="" group-title="Spanish",ES: M.GOLF
+http://youra.damnsexybit.net:8080/Ben/kb6Yn2Z9zv/133920
+#EXTINF:-1 tvg-id="" tvg-name="ES: M.LIGA DE COMPEONES" tvg-logo="" group-title="Spanish",ES: M.LIGA DE COMPEONES
+http://youra.damnsexybit.net:8080/Ben/kb6Yn2Z9zv/133922
+#EXTINF:-1 tvg-id="" tvg-name="ES: M.SERIES" tvg-logo="" group-title="Spanish",ES: M.SERIES
+http://youra.damnsexybit.net:8080/Ben/kb6Yn2Z9zv/133925
+#EXTINF:-1 tvg-id="" tvg-name="ES: NAT GEO" tvg-logo="" group-title="Spanish",ES: NAT GEO
+http://youra.damnsexybit.net:8080/Ben/kb6Yn2Z9zv/133912
+#EXTINF:-1 tvg-id="" tvg-name="ES: NAT GEO WILD" tvg-logo="" group-title="Spanish",ES: NAT GEO WILD
+http://youra.damnsexybit.net:8080/Ben/kb6Yn2Z9zv/133913
+#EXTINF:-1 tvg-id="" tvg-name="ES: NICKLODEON" tvg-logo="" group-title="Spanish",ES: NICKLODEON
+http://youra.damnsexybit.net:8080/Ben/kb6Yn2Z9zv/133928
+#EXTINF:-1 tvg-id="" tvg-name="ES: NOVA" tvg-logo="" group-title="Spanish",ES: NOVA
+http://youra.damnsexybit.net:8080/Ben/kb6Yn2Z9zv/133902
+#EXTINF:-1 tvg-id="" tvg-name="ES: ODISEA" tvg-logo="" group-title="Spanish",ES: ODISEA
+http://youra.damnsexybit.net:8080/Ben/kb6Yn2Z9zv/133910
+#EXTINF:-1 tvg-id="" tvg-name="ES: REAL MADRID TV" tvg-logo="" group-title="Spanish",ES: REAL MADRID TV
+http://youra.damnsexybit.net:8080/Ben/kb6Yn2Z9zv/133915
+#EXTINF:-1 tvg-id="" tvg-name="ES: SYFY" tvg-logo="" group-title="Spanish",ES: SYFY
+http://youra.damnsexybit.net:8080/Ben/kb6Yn2Z9zv/133903
+#EXTINF:-1 tvg-id="" tvg-name="ES: TELECINCO" tvg-logo="" group-title="Spanish",ES: TELECINCO
+http://youra.damnsexybit.net:8080/Ben/kb6Yn2Z9zv/133891
+#EXTINF:-1 tvg-id="" tvg-name="ES: TNT" tvg-logo="" group-title="Spanish",ES: TNT
+http://youra.damnsexybit.net:8080/Ben/kb6Yn2Z9zv/133908
+#EXTINF:-1 tvg-id="" tvg-name="ES: TOROS TV" tvg-logo="" group-title="Spanish",ES: TOROS TV
+http://youra.damnsexybit.net:8080/Ben/kb6Yn2Z9zv/133919
+#EXTINF:-1 tvg-id="" tvg-name="ES: TV GALICIA" tvg-logo="" group-title="Spanish",ES: TV GALICIA
+http://youra.damnsexybit.net:8080/Ben/kb6Yn2Z9zv/133916
+#EXTINF:-1 tvg-id="" tvg-name="ES: TVE 1" tvg-logo="" group-title="Spanish",ES: TVE 1
+http://youra.damnsexybit.net:8080/Ben/kb6Yn2Z9zv/133886
+#EXTINF:-1 tvg-id="" tvg-name="ES: TVE 2" tvg-logo="" group-title="Spanish",ES: TVE 2
+http://youra.damnsexybit.net:8080/Ben/kb6Yn2Z9zv/133887
+#EXTINF:-1 tvg-id="" tvg-name="ES: TVE CLAN" tvg-logo="" group-title="Spanish",ES: TVE CLAN
+http://youra.damnsexybit.net:8080/Ben/kb6Yn2Z9zv/133888
+#EXTINF:-1 tvg-id="" tvg-name="ES: VIAJAR" tvg-logo="" group-title="Spanish",ES: VIAJAR
+http://youra.damnsexybit.net:8080/Ben/kb6Yn2Z9zv/133929
